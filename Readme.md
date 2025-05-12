@@ -3,4 +3,4 @@ __Pequeno repositório para códigos em python__
 + list;
 + set;
 + tuple;
-+ while:
++ while.
