@@ -7,16 +7,7 @@ def div(k, j):
 def count(num = 11, char = "#"):
   for i in range(1, num):
     print(char)
-
-if __name__ == '__main__':
-  a = int(input("type a number: "))
-  b = int(input("type another number: "))
-
-  result = div(a, b)
-  print(f'{a} divided by {b} is: {result} ')
-
-  count(3, "^")
-
+    
 # recursion
 
 def factorial(num):
@@ -28,6 +19,14 @@ def factorial(num):
     return num * factorial(num - 1)
 
 if __name__ == '__main__':
+  a = int(input("type a number: "))
+  b = int(input("type another number: "))
+
+  result = div(a, b)
+  print(f'{a} divided by {b} is: {result} ')
+
+  count(3, "^")
+  
   x = int(input(":"))
   r = factorial(x)
   print(r)
