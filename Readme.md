@@ -1,1 +1,1 @@
-__Pequeno repositório para aprendizado em python__
+*Pequeno repositório para aprendizado em python*
