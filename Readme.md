@@ -1,7 +1,1 @@
-__Pequeno repositório para códigos em python__
-
-*projetos:*
-+ list;
-+ set;
-+ tuple;
-+ while.
+__Pequeno repositório para aprendizado em python__
